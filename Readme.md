@@ -6,4 +6,6 @@
 * versão _python_ 3.6.5
 * Documentação de instalação do [_pytest_](https://docs.pytest.org/en/stable/getting-started.html) 
 * Ambiente virtual env (workspacevitual) para iniciar deva-se .\workspacevitual\Scripts\activate.bat
+* Para executar os testes navegue até o diretório da pasta .\ExercicioDeOperadores e digite o comando no terminal:
+pytest test_operadores.py
   
